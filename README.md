@@ -1,2 +1,2 @@
 # anthill
-Langton's ant simulator
+Langton's ant simulator. Made for Pythonista.
